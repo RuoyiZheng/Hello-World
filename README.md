@@ -1,8 +1,9 @@
-Heading	# H1
+Heading	
+# H1
 ## H2
 ### H3
-Bold	**bold text**
-Italic	*italicized text*
+**bold text**
+*italicized text*
 Blockquote	> blockquote
 Ordered List	1. First item
 2. Second item
